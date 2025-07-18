@@ -1,14 +1,59 @@
-## Hi👋, I'm Vishesh Soni
-A passionate Java Developer || Backend Developer
+# 👋 Hi, I'm Vishesh Soni
+
+🎓 Final Year B.Tech (EC) Student at **Chameli Devi Group Of Institutions, Indore**  
+💻 Passionate about **IoT**, **Java Development**, and solving **DSA** problems  
+🌱 Currently exploring: **Spring Boot**, **Full-Stack Web Development**, and **AI-powered systems**
 
 Email Me 👉 ✉️ **sonivishesh099@gmail.com** For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Spring & Spring-Boot Projects
-- 🌱 **I’m currently learning:** Spring & Spring-Boot
-- 💬 **Ask me about:** Tech Support
-- 📫 **How to reach me:** sonivishesh099@gmail.com
-- 😄 **Pronouns:** Vishesh Soni
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+---
+
+## 🚀 My Daily Coding Routine
+
+- ✅ I code **every day**, mainly solving **DSA problems on LeetCode**
+- 💡 I post my solutions on GitHub to understand patterns and build logic
+- 🔁 This daily consistency is helping me prepare for job interviews
+
+---
+
+## 🛠️ Tech Stack
+
+```java
+Languages: Java, HTML, CSS, BootStrap  
+Web: JSP, Servlets, Spring (basics), Firebase 
+IoT: Arduino, ESP32, NodeMCU, Sensors (MQ2, DHT11)  
+Database: MySQL, Firebase Realtime Database  
+Tools: Git, GitHub, VS Code, Arduino IDE
+
+--------
+
+📂 Notable Projects
+Smart Gas Leak Detection System (IoT + Firebase)
+
+Employee Leave Management System (JSP + Servlet + MySQL)
+
+Online Job Portal (Admin + Employer + Employee roles)
+
+Driver Drowsiness Detection System (Computer Vision project)
+
+➡️ Visit my pinned repositories for project code and documentation.
+
+📜 Certifications & Achievements
+🏅 NPTEL: Programming in Java (Certificate)
+
+🎯 Google Cloud Arcade Skill Badges
+
+🧠 7.5+ CGPA in B.Tech
+
+💯 85% in 12th | 83% in 10th
+
+
+💼 I'm Actively Looking For
+🎯 Full-time job opportunities in Java Backend, IoT, or QA Testing
+
+🤝 Internship roles in Software Development, Web, or Embedded Systems
+
+
 
 
 ## 🌐 Socials:
