@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vishesh Soni
 
-🎓 Final Year B.Tech (EC) Student at **Chameli Devi Group Of Institutions, Indore**  
+🎓 Final Year B.Tech (ECE) Student at **Chameli Devi Group Of Institutions, Indore**  
 💻 Passionate about **IoT**, **Java Development**, and solving **DSA** problems  
 🌱 Currently exploring: **Spring Boot**, **Full-Stack Web Development**, and **AI-powered systems**  
 ✉️ **Email me:** sonivishesh099@gmail.com — for collaboration, projects, or anything else. 😊
