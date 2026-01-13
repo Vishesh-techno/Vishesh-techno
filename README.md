@@ -1,54 +1,142 @@
-# 👋 Hi, I'm Vishesh Soni
+## **👋 Hi, I’m Vishesh Soni**
 
-🎓 Final Year B.Tech (ECE) Student at **Chameli Devi Group Of Institutions, Indore**  
-💻 Passionate about **IoT**, **Java Development**, and solving **DSA** problems  
-🌱 Currently exploring: **Spring Boot**, **Full-Stack Web Development**, and **AI-powered systems**  
-✉️ **Email me:** sonivishesh099@gmail.com — for collaboration, projects, or anything else. 😊
+🎓 **Final Year B.Tech** | Chameli Devi Group Of Institutions, Indore
+💻 **Java Backend Developer** | DSA Learner | IoT & AI Projects Builder
+
+📧 **Email**: sonivishesh099@gmail.com
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/vishesh-techno
+
+🐙 **GitHub**: https://github.com/Vishesh-techno
+
+🧠 **LeetCode**: https://leetcode.com/Vishesh-techno
+
+---
+
+## **🚀 About Me**
+
+I am a final-year engineering student with strong interest in Java backend development, DSA, and building real-world systems.
+I focus on writing clean backend logic, REST APIs, and end-to-end projects that solve practical problems.
+
+🔁 Solving DSA daily on LeetCode
+
+☕ Strong in Java, SQL, Spring Boot basics
+
+🌱 Learning Spring Boot, REST APIs, MVC architecture
+
+🧠 Exploring AI-powered tools & automation
+
+💡 I post my solutions on GitHub to understand patterns and build logic
 
 ---
 
-## 🚀 My Daily Coding Routine
-
-- ✅ I code **every day**, mainly solving **DSA problems on LeetCode**
-- 💡 I post my solutions on GitHub to understand patterns and build logic
-- 🔁 This daily consistency is helping me prepare for job interviews
-
----
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, HTML, CSS, Bootstrap  
-**Web:** JSP, Servlets, Spring (Basics), Firebase  
-**IoT:** Arduino, ESP32, NodeMCU, MQ2 Sensor, DHT11  
-**Database:** MySQL, Firebase Realtime Database  
-**Tools:** Git, GitHub, VS Code, Arduino IDE
+**Languages**: Java, SQL
+
+**Backend**: JSP, Servlets (JSTL, EL), Spring, Spring Boot, REST APIs, MVC
+
+**Frontend**: HTML, CSS, Bootstrap, Vite
+
+**Database**: MySQL, JDBC, Hibernate
+
+**Tools**: Git, GitHub, Apache Tomcat
+
+**Cloud & Deployment**: Render, Railway, Netlify
 
 ---
 
-## 📂 Notable Projects
+## 📂 Projects (Live + GitHub)
+## 🔴 **AI Email Reply Generator (Chrome Extension + Spring Boot)**
 
-- 🚨 **Smart Gas Leak Detection System** (IoT + Firebase Dashboard)  
-- 🗂️ **Employee Leave Management System** (JSP + Servlet + MySQL)  
-- 💼 **Online Job Portal** (Multi-role: Admin, Employer, Employee)  
-- 🛑 **Driver Drowsiness Detection System** (Computer Vision)
+🔗 **GitHub**: https://github.com/Vishesh-techno/AI-Email-Reply-Generator
+
+🔗 **Live Demo**: https://aiemailreplygenerator.netlify.app/
+
+Chrome Extension (Manifest V3) integrated with Gmail
+
+Spring Boot REST API for AI-based email reply generation
+
+Gmail DOM detection using MutationObserver
+
+Real-time reply generation inside Gmail UI
+
+## 🟢 **YouTube SEO Tag Generator (Spring Boot)**
+
+🔗 **GitHub**: https://github.com/Vishesh-techno/YouTube-SEO-Tag-Generator
+
+🔗 **Live Demo**: [https://aiemailreplygenerator.netlify.app/](https://youtubetoolseo-production.up.railway.app/)
+
+Generates SEO-friendly YouTube tags from keywords
+
+Built using Spring Boot & REST APIs
+
+Frontend–backend integration using HTTP POST requests
+
+## 💰 **Crypto Currency Price Tracker (Spring Boot)**
+
+🔗 **Live Demo**: [https://cryptopricetracker-xu2t.onrender.com/](https://github.com/Vishesh-techno/CryptoPriceTracker)
+
+🔗 **GitHub**: https://github.com/Vishesh-techno/Crypto-Currency-Tracker
+
+Real-time cryptocurrency price tracking
+
+External crypto API integration
+
+Spring Boot backend with dynamic UI rendering
+
+Deployed on Render
+
+## 🌐 **Web Scraping Application (Spring Boot)**
+
+🔗 **Live Demo**: https://webscrapping-production-8d0e.up.railway.app/
+
+🔗 **GitHub**: [github.com/Vishesh-techno/Web-Scraping](https://github.com/Vishesh-techno/WebScrapping)
+
+Extracts structured data from websites
+
+Backend built using Spring Boot
+
+Automated data fetching & parsing
+
+Deployed on Railway
+
+
+## 🟣 **Employee Leave Management System (JSP + Servlet + MySQL)**
+
+🔗 **GitHub**: https://github.com/Vishesh-techno/Employee-Leave-Management-System
+
+Role-based login (Admin / Employee)
+
+Leave request & approval workflow
+
+Session handling & database connectivity
 
 ➡️ Visit my **pinned repositories** for code and documentation.
 
 ---
 
-## 📜 Certifications & Achievements
+## **🏆 Achievements & Certifications**
 
-- 🏅 NPTEL: Programming in Java (Certificate)  
-- 🎯 Google Cloud Arcade Skill Badges  
-- 🧠 7.5+ CGPA in B.Tech  
-- 💯 85% in 12th | 83% in 10th
+🥈 **NPTEL – Programming in Java (Elite Silver)** – IIT Kharagpur
+
+📜 **DBMS – NPTEL Certificate**
+
+🎓 Java Programming Fundamentals – Infosys Springboard
+
+☁️ Google Cloud Arcade Skill Badges
+
+🧠 **200+ DSA problems solved**
+
+🏆 **TCS CodeVita 2025 – Global Rank 12,513, cleared First Round**
 
 ---
 
 ## 💼 I'm Actively Looking For
 
-- 🎯 **Full-time job opportunities** in **Java Backend**, **IoT**, or **QA Testing**  
-- 🤝 **Internship roles** in **Software Development**, **Web**, or **Embedded Systems**
+- 🎯 **Full-time job opportunities** in **Java Backend**, **Software Developer**  
+- 🤝 **Internship roles** in **Software Development**, **Web Development**
 
 ---
 
@@ -92,7 +180,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Vishesh-techno&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
