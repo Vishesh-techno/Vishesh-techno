@@ -48,6 +48,18 @@ I focus on writing clean backend logic, REST APIs, and end-to-end projects that 
 ---
 
 ## 📂 Projects (Live + GitHub)
+## 🤖 **AI ChatBot**
+
+🔗 **GitHub**: https://github.com/Vishesh-techno/AIChatBot
+
+🔗 **Live Demo**: https://ai-chat-bot-six-omega.vercel.app/
+
+AI chat using Gemini API
+
+Clean text response
+
+React + Spring Boot integration
+
 ## 🔴 **AI Email Reply Generator (Chrome Extension + Spring Boot)**
 
 🔗 **GitHub**: https://github.com/Vishesh-techno/AI-Email-Reply-Generator
